@@ -1,0 +1,2 @@
+   Usuario: 	MxAdmin
+contraseña: 	1
